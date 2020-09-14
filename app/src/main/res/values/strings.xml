@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dahab City</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cafes">Cafes</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="events">Events</string>
+    <string name="journeys">Journeys</string>
+    <string name="reservation_btn">Make reservation</string>
+    <string name="title_key">title</string>
+    <string name="description_key">description</string>
+    <string name="image_key">image</string>
+</resources>
